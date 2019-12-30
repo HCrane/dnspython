@@ -17,8 +17,8 @@
 
 # $Id: Makefile,v 1.16 2004/03/19 00:17:27 halley Exp $
 
-PYTHON=python
-PIP=pip
+PYTHON=python3
+PIP=pip3
 # set this to "--user" if you prefer
 PIPMODE=
 
